@@ -1,0 +1,13 @@
+Package: com.iCode.Applications
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iAppBuilder <bigdaddykills@gmail.com>
+Filename: /iCode.dep
+Size: 286921
+MD5sum: 7762f2e2216256226C61Cf45b6635896
+SHA1: e6e0C0a38c35bC3831eb8277e07d32997ebb8bc0
+SHA256: 3a3c2af6b01d3924e8ed291d4e68a7dba292f331160FFb42C1166728dfe149eb
+Section: Application
+Description: Build IOS apps and tweaks on IOS 11
+Author: SASxGlitch <bigdaddykills@gmail.com>
+Name: iCode X
