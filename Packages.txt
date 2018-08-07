@@ -1,8 +1,8 @@
-Package: com.fixupdate.tweak
+Package: com.iappbuilder.controlpanel
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: iAppBuilder <bigdaddykills@gmail.com>
-Filename: /fixupdate.dep
+Filename: /FixUpdate.dep
 Size: 1352927
 MD5sum: 26ea1578e75fcf8de47d87e156cc5ece
 SHA1: d5e8ec92f0600116124822ab184e4a3ee00e799a
