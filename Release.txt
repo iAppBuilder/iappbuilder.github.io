@@ -1,8 +1,0 @@
-Origin: iAppBuilder Repo
-Label: iAppBuilder Repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: iAppBuilder Repo
