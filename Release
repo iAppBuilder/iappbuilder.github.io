@@ -1,0 +1,8 @@
+Origin: iappbuilder Repo
+Label: SASxGLITCH's Repo
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: SASxGLITCH's Repo
