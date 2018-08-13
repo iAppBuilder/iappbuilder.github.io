@@ -1,0 +1,353 @@
+Package: com.codeymoore.apollosfw
+Version: 1.0-1
+Section: Tweaks
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/ApolloSFW1.0-1.deb
+Size: 3226
+Installed-Size: 168
+MD5sum: dca604b5b664f53cb277ac772c183519
+Description: Makes Apollo safe for work and disables jailbreak detection
+Name: ApolloSFW
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.apollosfw
+
+Package: com.codeymoore.electrampiconfix
+Version: 1.0
+Section: Themes
+Maintainer: Codey Moore
+Architecture: iphoneos-arm
+Filename: .//debs/ElectraMPIconFix1.0.deb
+Size: 9172
+MD5sum: 7a3fbeaca62236af5688a46d5c538f8a
+Description: Fixes the blank Electra (dev) icon
+Name: ElectraMP Icon Fix
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.electrampiconfix
+
+Package: com.codeymoore.essentialutilities
+Version: 1.2
+Section: Preference Bundle
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/EssentialUtilities1.2.deb
+Size: 50070
+Installed-Size: 244
+MD5sum: 0f6bf8b5bda656b89b332b4745389cc6
+Description: Preference bundle with Respring, UICache
+Name: Essential Utilities
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.essentialutilities
+
+Package: com.codeymoore.essentialutilities
+Version: 1.3
+Section: Preference Bundle
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/EssentialUtilities1.3.deb
+Size: 50590
+Installed-Size: 244
+MD5sum: 328b6564183ce297ae6a87eeda570609
+Description: Preference bundle with essential commands
+Name: Essential Utilities
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.essentialutilities
+
+Package: com.codeymoore.essentialutilities
+Version: 1.1
+Section: Preference Bundle
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/EssentialUtilities1.1.deb
+Size: 33144
+Installed-Size: 220
+MD5sum: 3876d66e503415f79aeca43385ba0c59
+Description: Preference bundle with Respring, UICache
+Name: Essential Utilities
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.essentialutilities
+
+Package: com.codeymoore.essentialutilities
+Version: 1.0-11
+Section: Preference Bundle
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/EssentialUtilities1.0-11.deb
+Size: 295282
+Installed-Size: 428
+MD5sum: 26f66b482719b29a9a944ff0903d98af
+Description: Preference bundle with Respring, UICache an Reboot (reboot is currently not working)
+Name: EssentialUtilities
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/com.codeymoore.essentialutilities/info.html
+
+Package: com.codeymoore.hotspotshieldelite
+Version: 1.0-2
+Section: Tweaks
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/HotspotShieldElite1.0-2.deb
+Size: 3236
+Installed-Size: 120
+MD5sum: f2eb8b172892086bc86602c2b59f4e41
+Description: A hack for Hotspot Shield to give free Elite membership. (Works best with version 3.5.2).
+Name: Hotspot Shield Elite
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/com.codeymoore.hotspotshieldelite/info.html
+
+Package: com.codeymoore.hotspotshieldelite
+Version: 1.1
+Section: Tweaks
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/HotspotShieldElite1.1.deb
+Size: 3222
+Installed-Size: 120
+MD5sum: 998364f398b3fd302c9c3995b71869e1
+Description: A hack for Hotspot Shield to give free Elite membership. (Works best with version 3.5.2).
+Name: Hotspot Shield Elite
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.hotspotshieldelite
+
+Package: com.codeymoore.hungryjacksnofb
+Version: 1.0-12
+Section: Tweaks
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/HungryJacksNoFB1.0-12.deb
+Size: 296762
+Installed-Size: 548
+MD5sum: 38f1eff78929635f752de8cfeb614a29
+Description: No Facebook login required for the Hungry Jacks: Shake and Win app (Not a debugged version)
+Name: HungryJacksNoFB
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/com.codeymoore.hungryjacksnofb/info.html
+
+Package: com.codeymoore.hungryjacksnofb
+Version: 1.1
+Section: Tweaks
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/HungryJacksNoFB1.1.deb
+Size: 296928
+Installed-Size: 548
+MD5sum: 7a1ae116135b13ffe63b886f6a24966c
+Description: No Facebook login required for the Hungry Jacks: Shake and Win app.
+Name: HungryJacksNoFB
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.hungryjacksnofb
+
+Package: com.codeymoore.ijackoff
+Version: 1.2
+Section: Entertainment
+Maintainer: Codey Moore
+Architecture: iphoneos-arm
+Filename: .//debs/iJackOff1.2.deb
+Size: 9056
+Installed-Size: 140
+MD5sum: 569305b4c9a94af48c419f2a71e6adf7
+Description: Ya'll need this ;)
+Name: iJackOff
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.ijackoff
+
+Package: com.codeymoore.ijackoff
+Version: 1.1-1
+Section: Entertainment
+Maintainer: Codey Moore
+Architecture: iphoneos-arm
+Filename: .//debs/iJackOff1.1-1.deb
+Size: 8842
+Installed-Size: 140
+MD5sum: 9854f70e456336e80ae52a27c3c0f245
+Description: Ya'll need this ;)
+Name: iJackOff
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/com.codeymoore.ijackoff/info.html
+
+Package: com.codeymoore.ijackoffhq
+Version: 1.2
+Section: Entertainment
+Maintainer: Codey Moore
+Architecture: iphoneos-arm
+Filename: .//debs/iJackOffhq1.2.deb
+Size: 9388
+Installed-Size: 140
+MD5sum: a286998f00d726f2b26f30fed95e9b1a
+Description: Ya'll need this ;)
+Name: iJackOff - hqporner
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.ijackoff
+
+Package: com.codeymoore.loadngonojb
+Version: 1.0-1
+Section: Tweaks
+Maintainer: CodeX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/LoadnGoNoJB1.0-1.deb
+Size: 2700
+Installed-Size: 120
+MD5sum: 3ae3683156f66cd30cdde298a94badc3
+Description: Allows Jailbroken iDevices to run the AUSPost Load and Go app
+Name: noL's
+Author: CodeX
+Depiction: https://codeymoore.github.io/depictions/com.codeymoore.loadngonojb/info.html
+
+Package: com.codeymoore.loadngonojb
+Version: 1.1-1
+Section: Tweaks
+Maintainer: CodeX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/LoadnGoNoJB1.1.deb
+Size: 2672
+Installed-Size: 120
+MD5sum: 037d3f9c7fe6746eb9deb0620040b6a3
+Description: Allows Jailbroken iDevices to run the AUSPost Load and Go app
+Name: LoadnGoNoJB
+Author: CodeX
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.loadngonojb
+
+Package: com.codeymoore.lteto4g
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Glitch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/LTEto4G0.0.1-1.deb
+Size: 2512
+Installed-Size: 120
+MD5sum: 5859b58cf0c8caf7bcdb0219ab801286
+Description: An awesome MobileSubstrate tweak!
+Name: LTEto4G
+Author: Glitch
+
+Package: com.codeymoore.lteto4g
+Version: 1.1
+Section: Tweaks
+Maintainer: Glitch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/LTEto4G1.1.deb
+Size: 2556
+Installed-Size: 120
+MD5sum: 282f6870e5a72a2da926f08b16ef7eee
+Description: Replaces the "4G" data type logo with the "LTE" logo instead.
+Name: hideDOTS3
+Author: Glitch
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.lteto4g
+
+Package: com.codeymoore.nofade
+Version: 1.0-5
+Section: Tools
+Maintainer: Glitch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/NoFade1.0-5.deb
+Size: 2636
+Installed-Size: 120
+MD5sum: aac44fb46ec19c0bc6a3f0ce193d1c61
+Description: Stops song duration labels from fading away in the Now Playing view on Spotify.
+Name: NoZ's
+Author: Glitch
+
+Package: com.codeymoore.nofade
+Version: 1.6
+Section: Tweaks
+Maintainer: Glitch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/NoFade1.1.deb
+Size: 2654
+Installed-Size: 120
+MD5sum: 00b2de84e4a8dcf8eb124d6bd3df6d60
+Description: Stops song duration labels from fading away in the Now Playing view on Spotify.
+Name: NoFade
+Author: Glitch
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.nofade
+
+Package: com.codeymoore.scloudhack
+Version: 1.0-6
+Section: Tweaks
+Maintainer: Glitch
+Depends: iPatch
+Architecture: iphoneos-arm
+Filename: .//debs/SCloudHack1.0-6.deb
+Size: 3122
+Installed-Size: 120
+MD5sum: c21964b65ec827c1f4bf95b792d76ed7
+Description: Blocks ads and allows offline syncing.
+Name: Store cracker
+Author: Glitch
+Depiction: https://codeymoore.github.io/depictions/com.codeymoore.scloudhack/info.html
+
+Package: com.codeymoore.scloudhack
+Version: 1.1
+Section: Tweaks
+Maintainer: Glitch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/SCloudHack1.1.deb
+Size: 3130
+Installed-Size: 120
+MD5sum: 2dcd6f4cdce5c7f073e211ee7dc5cc82
+Description: Blocks ads and allows offline syncing.
+Name: dinoBOOT
+Author: Glitch
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.scloudhack
+
+Package: com.codeymoore.sparknojb
+Version: 1.0-3
+Section: Tweaks
+Maintainer: Glitch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/SparkNoJB1.0-3.deb
+Size: 2756
+Installed-Size: 120
+MD5sum: 3d8e8f4084e16dbb27aea4bc2eb2606c
+Description: Allows jailbroken users to play South Park: Phone Destroyer
+Name: SParkNoJB
+Author: Glitch
+Depiction: https://codeymoore.github.io/depictions/com.codeymoore.sparknojb/info.html
+
+Package: com.codeymoore.sparknojb
+Version: 1.1
+Section: Tweaks
+Maintainer: Glitch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/SparkNoJB1.1.deb
+Size: 2736
+Installed-Size: 120
+MD5sum: cbe43304b0e8f52bfeab08fc22ef7054
+Description: paches cydia errors
+Name: iPatch
+Author: Glitch
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.sparknojb
+
+Package: com.vvvpl.hungryjackshack
+Version: 1.2-1+debug
+Section: Tweaks
+Maintainer: Codey Moore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: .//debs/Hungry1.2-1.deb
+Size: 8771632
+Installed-Size: 11448
+MD5sum: 1b6832386b887e7a4142f27199a30eb9
+Description: IOS 5.0 or later
+Name: app store cracker
+Author: vvvpl <vvvpl@cock.li>
+Depiction: https://codeymoore.github.io/depictions/com.vvvpl.hungryjackshack/index.html
+
